@@ -25,5 +25,5 @@ A results-driven Logistics and Operations Specialist leveraging **Data Analytics
 ---
 
 ## 📬 Connect With Me
-* **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chadi-frague-84464b3a6/))
+* **LinkedIn:** https://www.linkedin.com/in/chadi-frague-84464b3a6/
 * **Email:** fraguechadi@gmail.com
